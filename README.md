@@ -6,7 +6,7 @@ In this assignment, you will create a simple neural network framework from scrat
 ## Instructions
 - Implement the framework as described below. Ensure you do this in a `.py` file and document your code by adding docstrings.
 - Import your framework into a Kaggle notebook (instructions provided below).
-- Create a model using your framework and train it on the MNIST dataset.
+- Create a model using your framework and train it on the MNIST dataset. Can be found [here](https://www.kaggle.com/competitions/digit-recognizer).
 - Evaluate your model by making a sample submission on Kaggle.
 - Download the Kaggle notebook and upload your framework Python file along with the notebook to a GitHub repository.
 - Add a README file illustrating how to use your framework, including loading your model weights. Also, include the link to your Kaggle notebook in it.
