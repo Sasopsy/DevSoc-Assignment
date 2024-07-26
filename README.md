@@ -60,7 +60,7 @@ You can now import your files into the Kaggle notebook.
 
 ## Usage Example
 ```python
-import numpy as np
+from your_framework import Model, CrossEntropyLoss, SGD, Linear, ReLU, Softmax
 
 # Define a simple neural network using the framework
 model = Model()
